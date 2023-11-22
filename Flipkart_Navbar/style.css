@@ -3,7 +3,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: inter_regular,fallback-inter_regular,Arial,sans-serif;     
+    font-family: inter_regular,fallback-inter_regular,Arial,sans-serif;
+         
 }
 body{
     background-color: rgba(222,222, 222,0.5);
@@ -29,6 +30,7 @@ body{
     background-color:#f0f5ff;
     padding-left: 10px;
     border-radius: 10px;
+    color: #717478;
 }
 
 .search input{
@@ -57,6 +59,7 @@ body{
 }
 .fa-sm{
     font-size: 16px;
+    
 }
 .shopping_cart, .giftbox{
     height: 35px;
